@@ -28,5 +28,7 @@ Machine Learning (ML) 是解决传统程序在数据量大，条件多的情况�
  - predit
  - 检查准确率
 
+简单总结就是：分、学、猜、再调整。
+
 具体见KNN.ipynb
 
