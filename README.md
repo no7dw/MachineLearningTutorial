@@ -1,5 +1,7 @@
 ### 机器学习入门 快速版
 
+本文地址： https://github.com/no7dw/MachineLearningTutorial
+
 #### background
 从数据量的角度，Machine Learning (ML) 是解决传统程序在数据量大，条件多的情况下，使用代码处理复杂场景已经力不从心的情况下的一种解决方案。
 而Deep Learning 是进一步数据量爆炸的情况下，保证学习速度、效果的一种新的途径。
