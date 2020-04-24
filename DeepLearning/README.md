@@ -49,7 +49,7 @@ convex function vs non-convex function :
 - convex  has only one optimism point
 - non-convex  has multiple optimism points
 
-通过初始化，因为训练一直Y，本质求weight matrix，所以往各个方向去猜，能判断是否偏离目的地。
+通过初始化，因为Forward propagation 计算predict 值后，是已经知道Y。现在本质反向求weight matrix，所以通过backward propagation 求导后，根据learning_rate往各个方向去猜，能判断是否偏离目的地。
 
 ##### Gradient Descent 实现的注意点
 以两层的NN 为例：
