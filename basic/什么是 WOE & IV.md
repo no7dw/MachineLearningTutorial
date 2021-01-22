@@ -1,4 +1,4 @@
-### 什么是 WOE & IV & Entropy & Information Gain & GINI
+### 什么是 WOE & IV & Entropy & Information Gain 
 
 #### WOE 公式
 WOE = In(% of non-events ➗ % of events)
@@ -41,6 +41,11 @@ X 拆解成具体的子分类 -- 也就是分箱
 
  总结来说就是期望这样的X：分布越不均，并且占比越大 
 因此Information Gain 用于多个特征挑选DecisionTree 分叉时的决策先后顺序
+
+![2021-01-22-15-30-37](http://img.no1token.com/2021-01-22-15-30-37.png)
+
+树图
+![2021-01-22-15-32-18](http://img.no1token.com/2021-01-22-15-32-18.png)
 
 [参考资料](https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c18c8)
 
