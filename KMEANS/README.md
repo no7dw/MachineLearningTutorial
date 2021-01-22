@@ -24,6 +24,7 @@ Si 公式越大，效果越好。
 
 见Clus-K-Means-images.ipynb 的find_best_k()
 
+![2021-01-22-15-40-17](http://img.no1token.com/2021-01-22-15-40-17.png)
 
 
 
